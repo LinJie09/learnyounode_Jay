@@ -1,0 +1,24 @@
+{
+  "name": "learnyounode_jay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "learnyounode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinJie09/learnyounode_Jay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinJie09/learnyounode_Jay/issues"
+  },
+  "homepage": "https://github.com/LinJie09/learnyounode_Jay#readme",
+  "dependencies": {
+    "learnyounode": "^4.2.2",
+    "node": "^17.4.0"
+  }
+}
