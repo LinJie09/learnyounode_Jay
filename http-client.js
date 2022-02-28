@@ -1,7 +1,7 @@
 const http = require('http')
 
 function callback(response){
-    response.setEncoding()
+    response.setEncoding('utf-8')
     response.on('data',function(data){
         console.log(data);
     })
